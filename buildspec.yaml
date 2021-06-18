@@ -15,4 +15,4 @@ phases:
       - ./deployment.sh -d
   post_build:
     commands:
-      - echo "another post build"
+      - echo "another post build 2"
